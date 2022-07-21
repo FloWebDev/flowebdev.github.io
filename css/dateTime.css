@@ -1,0 +1,7 @@
+#dateTime {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    color: white;
+    z-index: 1;
+}

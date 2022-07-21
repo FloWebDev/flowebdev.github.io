@@ -1,6 +1,12 @@
-#dateTime {
-    text-align: center;
-    font-size: 2rem;
-    font-weight: bold;
-    color: rgb(48, 63, 148);
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: #000000;
 }
